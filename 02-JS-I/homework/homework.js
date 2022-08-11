@@ -38,7 +38,7 @@ function suma(x, y) {
   // Tu código:
   suma = x + y
   return(suma);
-  
+ 
 }
 
 function resta(x, y) {
